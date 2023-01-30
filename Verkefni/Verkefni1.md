@@ -19,7 +19,7 @@ Til að prófa leikinn í **síma**:
    - [x] Ghosts;  Blinky (red), Pinky (pink), Inky (cyan) og Clyde (orange). Ghosts eru staðsettir random á skjá og fara í random áttir en komast ekki út fyrir jaðar skjás heldur skoppast af honum. 
    - [ ] 4 x Pac-Man Power Pellets, staðsettir í hornum sem blikka. 
    - [x] Pac-Man dots dreift um skjáinn. 
-   - [ ] Hindranir, frjáls útfærsla, tilemaps er ekki í boði.
+   - [x] Hindranir, frjáls útfærsla, tilemaps er ekki í boði.
 1. Leikjastjórnun. (**25%**)
    - [x] Hægt er að stýra Pac-Man í allar áttir (N,S,V,A,NA,NV,SV,SA) með lyklaborði. 
    - [x] Pac-Man á ekki að geta komist út fyrir jaðar á canvas. 
@@ -27,7 +27,7 @@ Til að prófa leikinn í **síma**:
    - [ ] Hægt er að stýra Pac-Man í allar áttir með touch. 
    - [ ] Útfærðu swipe fyrir Pac-Man, lengra swipe skilar meiri hröðun. 
 1. Árekstur við leikjahluti. (**25%**)
-   - [ ] Þegar Pac-Man safnar Pac-Man dots þá hækkar stigateljari.
+   - [x] Þegar Pac-Man safnar Pac-Man dots þá hækkar stigateljari.
    - [ ] Þegar ghost rekst á Pac-Man þá missir Pac-Man líf.
    - [ ] Notaðu [Vibration API](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API) þegar Pac-Man missir líf. _vibration virkar ekki í Iphone_
    - [ ] Þegar Pac-Man nær Power Pellet þá breyta ghosts um lit í smá tíma, á þeim tíma getu PacMan drepið þá og fengið stig. Ghosts sem Pac-Man drepur birtast aftur á skjá.
