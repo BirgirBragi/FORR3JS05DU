@@ -38,7 +38,7 @@ Til að prófa leikinn í **síma**:
    - [ ] Notaðu [localStorarage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) til að halda utan um og geyma hæsta leikjaskorið.
 1. Skjárinn (**10%**)
    - [x] Leikur fyllir skjáinn í símanum. [Creating and resizing your Canvas](https://youtu.be/EO6OkltgudE?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&t=166). [Fullscreen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API) og [sýnidæmi](https://youtu.be/D74Z_0I0CUk?t=786). 
-   - [ ] leikjaspilun er stillt fyrir landslagsstillingu (landscape) í síma. Sjá t.d. [Screen Orientation API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Orientation_API),  [Window: resize event](https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event) og [sýnidæmi](https://youtu.be/vxljFhP2krI?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&t=1272)
+   - [x] leikjaspilun er stillt fyrir landslagsstillingu (landscape) í síma. Sjá t.d. [Screen Orientation API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Orientation_API),  [Window: resize event](https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event) og [sýnidæmi](https://youtu.be/vxljFhP2krI?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL&t=1272)
 
  
  <br>
