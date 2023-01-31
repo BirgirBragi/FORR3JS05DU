@@ -17,7 +17,7 @@ Til að prófa leikinn í **síma**:
    - [x] Notaðu class og fylki til að halda utan um objects.
    - [x] Pac-Man er með hrinlaga form, lit, auga og munn. Pac-Man er með 3 líf og byjar alltaf á sama stað. 
    - [x] Ghosts;  Blinky (red), Pinky (pink), Inky (cyan) og Clyde (orange). Ghosts eru staðsettir random á skjá og fara í random áttir en komast ekki út fyrir jaðar skjás heldur skoppast af honum. 
-   - [ ] 4 x Pac-Man Power Pellets, staðsettir í hornum sem blikka. 
+   - [x] 4 x Pac-Man Power Pellets, staðsettir í hornum sem blikka. 
    - [x] Pac-Man dots dreift um skjáinn. 
    - [x] Hindranir, frjáls útfærsla, tilemaps er ekki í boði.
 1. Leikjastjórnun. (**25%**)
