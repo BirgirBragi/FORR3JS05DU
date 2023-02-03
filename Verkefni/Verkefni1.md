@@ -33,7 +33,7 @@ Til að prófa leikinn í **síma**:
    - [x] Þegar Pac-Man nær Power Pellet þá breyta ghosts um lit í smá tíma, á þeim tíma getu PacMan drepið þá og fengið stig. Ghosts sem Pac-Man drepur birtast aftur á skjá.
 1. Start og Game Over (**20%**)
    - [ ] Leið (t.d. touch) til að byrja leik. 
-   - [ ] Leik er lokið þegar Pac-Man hefur safnað öllum Pac-Man dots eða klárað lífin sín.  
+   - [x] Leik er lokið þegar Pac-Man hefur safnað öllum Pac-Man dots eða klárað lífin sín.  
    - [x] Líf- og stigateljari fyrir Pac-Man. 
    - [ ] Notaðu [localStorarage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) til að halda utan um og geyma hæsta leikjaskorið.
 1. Skjárinn (**10%**)
