@@ -24,7 +24,7 @@ Til að prófa leikinn í **síma**:
    - [x] Hægt er að stýra Pac-Man í allar áttir (N,S,V,A,NA,NV,SV,SA) með lyklaborði. 
    - [x] Pac-Man á ekki að geta komist út fyrir jaðar á canvas. 
    - [x] Munnur færist í þá átt sem Pac-Man er stýrt. 
-   - [ ] Hægt er að stýra Pac-Man í allar áttir með touch. 
+   - [x] Hægt er að stýra Pac-Man í allar áttir með touch. 
    - [ ] Útfærðu swipe fyrir Pac-Man, lengra swipe skilar meiri hröðun. 
 1. Árekstur við leikjahluti. (**25%**)
    - [x] Þegar Pac-Man safnar Pac-Man dots þá hækkar stigateljari.
@@ -32,7 +32,7 @@ Til að prófa leikinn í **síma**:
    - [x] Notaðu [Vibration API](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API) þegar Pac-Man missir líf. _vibration virkar ekki í Iphone_
    - [x] Þegar Pac-Man nær Power Pellet þá breyta ghosts um lit í smá tíma, á þeim tíma getu PacMan drepið þá og fengið stig. Ghosts sem Pac-Man drepur birtast aftur á skjá.
 1. Start og Game Over (**20%**)
-   - [ ] Leið (t.d. touch) til að byrja leik. 
+   - [x] Leið (t.d. touch) til að byrja leik. 
    - [x] Leik er lokið þegar Pac-Man hefur safnað öllum Pac-Man dots eða klárað lífin sín.  
    - [x] Líf- og stigateljari fyrir Pac-Man. 
    - [x] Notaðu [localStorarage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API) til að halda utan um og geyma hæsta leikjaskorið.
